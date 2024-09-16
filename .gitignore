@@ -1,0 +1,36 @@
+# Virtual Environment
+tts_env/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python-specific
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output files
+*.wav
+output/
+
+# Input files (if you don
